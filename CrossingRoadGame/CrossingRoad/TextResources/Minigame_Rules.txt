@@ -1,0 +1,6 @@
+MINIGAME
+- Your objective in this minigame is collecting all the coins visible, further increasing your points.
+- If the main character is hit during the minigame, the game will be considered over.
+- No save/load available in the minigame, but player can still pause the game at anytime.
+- The player has 50 seconds to complete the minigame. 
+- If the main character is alive after 50 seconds or cross the finish line, the player will successfully finish the game.
